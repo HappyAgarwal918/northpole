@@ -6,6 +6,8 @@
 # 4- npm install
 # 5- php artisan serve
 
+# Add video folder inside public/assets.
+
 # // Need env file, paying_guest database and credentials.
 
 ## Server Requirements
